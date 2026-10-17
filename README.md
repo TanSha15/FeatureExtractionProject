@@ -1,5 +1,5 @@
 
-# Anime Feature Extraction Project
+#Feature Extraction Project
 
 ## Overview
 This project focuses on extracting useful features from anime titles using Python and Pandas. It extracts episode counts, airing periods, and total airing duration from the original dataset to create a structured dataset for further analysis.
@@ -24,7 +24,7 @@ The project uses an `anime.csv` dataset containing anime rankings, titles, and s
 
 Some useful information, such as episode counts and airing periods, is embedded within the `Title` column. The project extracts this information and stores it in separate columns.
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Load the Dataset
 Load the CSV file into a Pandas DataFrame for processing.
